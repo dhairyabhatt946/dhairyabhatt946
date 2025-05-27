@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhairya78619" target="blank"><img src="https://img.shields.io/twitter/follow/dhairya78619?logo=twitter&style=for-the-badge" alt="dhairya78619" /></a> </p>
 
-- 🌱 I’m currently learning **Python and MERN Stack**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 💬 Ask me about **Data Structure, Javascript, Java, SQL, C, HTML, CSS**
 
